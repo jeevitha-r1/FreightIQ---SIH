@@ -1,0 +1,6 @@
+{
+  "name": "FreightIQ — Predictive Maritime Chartering Intelligence",
+  "description": "AI-powered freight forecasting, vessel matching, and voyage decision-support cockpit for bulk cargo procurement to the East Coast of India (Ministry of Steel SIH).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
